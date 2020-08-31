@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51707" started-at="2020-08-31T10:17:56Z" finished-at="2020-08-31T10:18:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51707" started-at="2020-08-31T10:17:56Z" finished-at="2020-08-31T10:18:48Z">
+      <class name="com.testcases.TestDemo">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.testcases.TestDemo@6a024a67]" name="setUP" is-config="true" duration-ms="20930" started-at="2020-08-31T15:47:56Z" finished-at="2020-08-31T15:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateLoginPageTile()[pri:1, instance:com.testcases.TestDemo@6a024a67]" name="validateLoginPageTile" duration-ms="146" started-at="2020-08-31T15:48:17Z" finished-at="2020-08-31T15:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTile -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.TestDemo@6a024a67]" name="tearDown" is-config="true" duration-ms="1259" started-at="2020-08-31T15:48:17Z" finished-at="2020-08-31T15:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.testcases.TestDemo@6a024a67]" name="setUP" is-config="true" duration-ms="27848" started-at="2020-08-31T15:48:18Z" finished-at="2020-08-31T15:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateCRMlogo()[pri:2, instance:com.testcases.TestDemo@6a024a67]" name="validateCRMlogo" duration-ms="485" started-at="2020-08-31T15:48:46Z" finished-at="2020-08-31T15:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCRMlogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.TestDemo@6a024a67]" name="tearDown" is-config="true" duration-ms="1012" started-at="2020-08-31T15:48:47Z" finished-at="2020-08-31T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
